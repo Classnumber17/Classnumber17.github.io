@@ -2,10 +2,8 @@
 
 Bob Kristoff I. Corre
 
-Hi, I am Bob Kristoff Corre
 
 
 
-Playlist:
 
 
