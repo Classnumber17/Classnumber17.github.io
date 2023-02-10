@@ -6,11 +6,33 @@ Hello! My name is Bob Kristoff Corre and I live here in the Philippines. I'm cur
 
 
 
+
+
+
+
+
+
+
+
 Moreover about me is that, I spend most of my free time in playing basketball with my brother, friends and cousins. Also, reading is not my interest, but If I were to read about something, it would be about action.
 
 
 
+
+
+
+
+
+
+
+
 Furthermore, I usually watch NBA highlights in my free time and among all the NBA games, the 2016 finals is my favorite:
+
+
+
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxv5h-RZWVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
